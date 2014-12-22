@@ -35,14 +35,36 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Loves maistresse: or, The Queens masque As it was three times presented before their two Excellent M
+
+1. 〈7 lines〉
+
+1. 〈1 line〉.
+
+1. 〈3 lines〉
+
+1. 〈5 lines〉
+
+1. The Epilogue, spoken by Cupid, pointing to the severall Plannets.
+
+1. 〈3 lines〉
+
+1. 〈1 line〉
+
 #####Body#####
 
-1. SC•NE. I.
+1. Loues Mistris.
 
-1. SCENE. I.
+    _ ACT. I.
 
-1. SCENE. I.
+      * SC•NE. I.
+
+    _ ACT. III.
+
+      * SCENE. I.
+
+    _ ACT. IIII.
+
+      * SCENE. I.
 
 **Types of content**
 
